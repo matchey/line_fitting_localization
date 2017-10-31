@@ -34,11 +34,11 @@ $ cd ../
 $ catkin_make
 ```
 
-## How to run
-$ roslaunch lf node_edge_pf.launch
-
 ## Preparation for the execution
 ### create edge-node graph
 
 ### set yaml file
+
+## How to run
+$ roslaunch lf node_edge_pf.launch
 
