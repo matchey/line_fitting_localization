@@ -1,0 +1,24 @@
+[submodule "localization/complement"]
+	path = localization/complement
+	url = git@github.com:matchey/complement.git
+[submodule "localization/pf"]
+	path = localization/pf
+	url = git@github.com:matchey/pf.git
+[submodule "localization/lf"]
+	path = localization/lf
+	url = git@github.com:matchey/lf.git
+[submodule "mapping/voronoi"]
+	path = mapping/voronoi
+	url = git@github.com:matchey/voronoi.git
+[submodule "mapping/node_edge"]
+	path = mapping/node_edge
+	url = git@github.com:matchey/node_edge.git
+[submodule "mapping/latlng2xy"]
+	path = mapping/latlng2xy
+	url = git@github.com:matchey/latlng2xy.git
+[submodule "others/mstring"]
+	path = others/mstring
+	url = git@github.com:matchey/mstring.git
+[submodule "others/mmath"]
+	path = others/mmath
+	url = git@github.com:matchey/mmath.git
