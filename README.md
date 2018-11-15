@@ -29,7 +29,7 @@ $ sudo apt-get install ros-kinetic-desktop-full
 ```
 $ cd $HOME
 $ cd ros_catkin_ws/src
-$ git clone https://github.com/matchey/line_fitting_localization
+$ git clone --recursive https://github.com/matchey/line_fitting_localization
 $ cd ../
 $ catkin_make
 ```
